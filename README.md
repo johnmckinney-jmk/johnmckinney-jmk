@@ -13,6 +13,3 @@ Data analyst working at the intersection of data and storytelling.
 * **Tools** RStudio, Posit Cloud, BigQuery
 
 ### 📊 Featured Project
-
-<!--
-**johnmckinney-jmk/johnmckinney-jmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
