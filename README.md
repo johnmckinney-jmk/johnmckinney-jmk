@@ -12,4 +12,9 @@ Data analyst working at the intersection of data and storytelling.
 * **Statistical Techniques**: Descriptive statistics, regression, classification, clustering
 * **Tools** RStudio, Posit Cloud, BigQuery
 
-### 📊 Featured Project
+### 📊 Featured Projects
+
+* [R Project - A comprehensive case study on wearable tech datasets using R](https://johnmckinney-jmk.github.io/R-Bellabeat-analysis/#2_Prepare_Phase)
+* [SQL Project - A brief analysis of rideshare data using SQL](https://johnmckinney-jmk.github.io/SQL-bikeshare-analysis/)
+
+
