@@ -10,7 +10,7 @@ Data analyst working at the intersection of data and storytelling.
 * **Data Analysis & Querying**: SQL, Spreadhseets (Excel, Google Sheets)
 * **Data Visualization**: ggplot2, plotly, Tableau
 * **Statistical Techniques**: Descriptive statistics, regression, clustering
-* **Tools** RStudio, Posit Cloud, BigQuery, Tableau
+* **Tools**: RStudio, Posit Cloud, BigQuery, Tableau
 
 ### 📊 Featured Portfolio Projects
 
