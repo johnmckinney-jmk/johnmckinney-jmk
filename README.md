@@ -2,7 +2,8 @@ Data analyst working at the intersection of data and storytelling.
 
 * 🎓 Currently expanding my skills through the Google Data Analytics Certificate
 * 💼 Formerly in B2B marketing
-* 📫 How to reach me: john.mckinney1919@gmail.com | [LinkedIn](www.linkedin.com/in/johnamckinney1234)
+* 📫 How to reach me: john.mckinney1919@gmail.com | [LinkedIn](https://www.linkedin.com/in/johnamckinney1234)
+
 
 
 ### 🛠 Skills
