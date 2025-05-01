@@ -21,3 +21,8 @@ for a comprehensive case study on wearable tech datasets using R.
 for a brief analysis of rideshare data using SQL.
 * **[Tableau Project - CLICK HERE](https://public.tableau.com/views/Work_In_Progress-YouTubeViews/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 for a concise dashboard showing YouTube viewership trends.
+
+### 🧩 Just for Fun
+* **[My CV Viz - CLICK HERE](https://johnmckinney-jmk.github.io/CV-Viz/)**
+
+
