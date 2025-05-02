@@ -1,14 +1,15 @@
 Data analyst working at the intersection of data and storytelling.
 
-* 🎓 Currently expanding my skills through the Google Data Analytics Certificate
-* 💼 Formerly in B2B marketing
+* 🚀 Currently seeking data analyst roles with a focus on impactful, data-driven insights
+* 🎓 Recently earned Google Data Analytics Certificate
+* 💼 Formerly a Sr. B2B marketing strategist
 * 📫 How to reach me: john.mckinney1919@gmail.com | [LinkedIn](https://www.linkedin.com/in/johnamckinney1234)
 
 
 
 ### 🛠 Skills
 * **Programming Language**: R
-* **Data Analysis & Querying**: SQL, Spreadhseets (Excel, Google Sheets)
+* **Data Analysis & Querying**: SQL, Spreadsheets (Excel, Google Sheets)
 * **Data Visualization**: ggplot2, plotly, Tableau
 * **Statistical Techniques**: Descriptive statistics, regression, clustering
 * **Tools**: RStudio, Posit Cloud, BigQuery, Tableau
