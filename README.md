@@ -17,7 +17,7 @@ Data analyst working at the intersection of data and storytelling.
 ### 📊 Featured Portfolio Projects
 
 * **[R Project - CLICK HERE](https://johnmckinney-jmk.github.io/R-Bellabeat-analysis/)**
-for a comprehensive case study on wearable tech datasets using R.
+for a comprehensive case study on wearable tech datasets using R and Pivot Tables.
 * **[SQL Project - CLICK HERE](https://johnmckinney-jmk.github.io/SQL-bikeshare-analysis/)**
 for a brief analysis of rideshare data using SQL.
 * **[Tableau Project - CLICK HERE](https://public.tableau.com/views/Work_In_Progress-YouTubeViews/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
