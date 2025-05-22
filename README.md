@@ -1,10 +1,8 @@
-Data analyst working at the intersection of data and storytelling.
+Data analyst & sr. marketer working at the intersection of data and storytelling.
 
-* 🚀 Currently seeking data analyst roles with a focus on impactful, data-driven insights
+* 🚀 Currently seeking analyst roles with a focus on impactful, data-driven insights
 * 🎓 Recently earned Google Data Analytics Certificate
-* 💼 Formerly a Sr. B2B marketing strategist
 * 📫 How to reach me: john.mckinney1919@gmail.com | [LinkedIn](https://www.linkedin.com/in/johnamckinney1234)
-
 
 
 ### 🛠 Skills
